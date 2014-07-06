@@ -1,3 +1,4 @@
 <?php
 
-echo "selam";
+echo "merhaba";
+echo "selam dünya";
